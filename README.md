@@ -27,7 +27,7 @@ I am passionate about technology and currently pursuing the [AWS Certified Solut
 * General software development best practices
 
 ## 🔧 Technologies & Tools
-Here are some of the technologies and tools of choice when architecting solutions.<br/><br/>
+Here are some of the technologies and tools of choice when architecting solutions.<br/>
 
 <div style="float: left;">
 <img height="30px" src="./assets/technologies/go.svg"/> &nbsp;&nbsp;
