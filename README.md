@@ -71,8 +71,10 @@ https://calendar.app.google/wkJ8by5mRyByiShr6
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidmvulle&hide=javascript,starlark,objective-c,java,c%23,dockerfile,php,objective-c%2B%2B,makefile,ruby,tsql,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <br/><br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=majidmvulle&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/majidmvulle)
 <br/><br/>
+
 <a href="https://github.com/majidmvulle/majidmvulle">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=majidmvulle&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EA3323&bg_color=1d1f21" alt="Majid's GitHub Stats" />
 </a>
