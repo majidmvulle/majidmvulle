@@ -54,7 +54,7 @@ Here are some of the technologies and tools of choice when architecting solution
 ## 📫 How to reach me: 
 You can find me on: 
 
-<a href="https://www.linkedin.com/in/majidmvulle"><img src="./assets/linkedin.svg" width="20px"/><br/>/in/majidmvulle</a>. 
+<a href="https://www.linkedin.com/in/majidmvulle"><img src="./assets/linkedin.svg" width="20px"/><br/>/in/majidmvulle</a>
 
 
 You could also schedule a call with me on:
