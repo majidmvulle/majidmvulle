@@ -70,7 +70,9 @@ You could also schedule a call with me on:
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=majidmvulle&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/majidmvulle)
-<br/><br/>
+
+<br/>
+<br/>
 
 <a href="https://github.com/majidmvulle/majidmvulle">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=majidmvulle&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=EA3323&bg_color=0F0F0F&hide_border=true" alt="Majid's GitHub Stats" />
