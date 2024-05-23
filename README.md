@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olà <img width="30px" src="./assets/wave.gif"/>
+## Olá <img width="30px" src="./assets/wave.gif"/>
 
 I am a Senior Solutions Architect 💡👷🏽‍♂️, Software Developer 👨🏾‍💻 and Technical Team Lead 👨🏾‍💼 based in Lisbon, Portugal.
 
@@ -31,11 +31,11 @@ Here are some of the technologies and tools of choice when architecting solution
 
 <div style="float: left;">
 <img height="30px" src="./assets/technologies/go.svg"/> &nbsp;&nbsp;
-<img height="30px" src="./assets/technologies/cplusplus.svg"/>&nbsp;&nbsp;
-<img height="30px" src="./assets/technologies/c.svg"/>&nbsp;&nbsp;
-<img height="30px" src="./assets/technologies/php.svg"/>&nbsp;&nbsp;
+<img height="30px" src="./assets/technologies/php.png"/>&nbsp;&nbsp;
 <img height="30px" src="./assets/technologies/nodejs.svg"/>&nbsp;&nbsp;
 <img height="30px" src="./assets/technologies/typescript.svg"/>
+<img height="30px" src="./assets/technologies/cplusplus.svg"/>&nbsp;
+<img height="30px" src="./assets/technologies/c.svg"/>&nbsp;&nbsp;
 </div>
 
 <br/><br/>
@@ -48,12 +48,13 @@ Here are some of the technologies and tools of choice when architecting solution
 * [Temporal](https://temporal.io/) - For workflow orchestration in a distributed, event-driven microservices environment
 * [AWS](https://aws.amazon.com/) - For cloud deployment, including some of the core services like ECS (Fargate) for compute, Cognito for authentication, Aurora for ACID strorage, MSK & Glue if using Kafka, DocumentDB or DynamoDB for NoSQL storage, S3 with CloudFront, etc
 * [Terraform/OpenTofu](https://opentofu.org/) - For IaC
+* [OpenTelemetry](https://opentelemetry.io/) - For observability (metrics, traces) pushed to any third-party service (Datadog, New Relic, Elastic APM, etc)
 
 
 ## 📫 How to reach me: 
 You can find me on: 
 
-<a href="https://www.linkedin.com/in/majidmvulle"><img src="./assets/linkedin.svg" width="30px"/><br/>/in/majidmvulle</a>. 
+<a href="https://www.linkedin.com/in/majidmvulle"><img src="./assets/linkedin.svg" width="20px"/><br/>/in/majidmvulle</a>. 
 
 
 You could also schedule a call with me on:
@@ -64,7 +65,7 @@ You could also schedule a call with me on:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/majidmvulle/majidmvulle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidmvulle&hide=javascript,starlark,objective-c,java,c%23,dockerfile,php,objective-c%2B%2B,makefile,ruby,tsql,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0F0F0F&langs_count=5&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidmvulle&hide=javascript,starlark,objective-c,java,c%23,dockerfile,php,objective-c%2B%2B,makefile,ruby,tsql,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=0F0F0F&langs_count=5&hide_border=true" />
 </a>
 <br/><br/>
 
@@ -72,17 +73,20 @@ You could also schedule a call with me on:
 <br/><br/>
 
 <a href="https://github.com/majidmvulle/majidmvulle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=majidmvulle&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EA3323&bg_color=0F0F0F&hide_border=true" alt="Majid's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=majidmvulle&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=EA3323&bg_color=0F0F0F&hide_border=true" alt="Majid's GitHub Stats" />
 </a>
 
+<br/>
 <img align="center" src="./assets/explanation.jpg"/>
 
 ***See for yourself!!!***
 
 <img align="center" src="./assets/gitlab.png"/>
 
+<br/>
 
------- The End ------
+<div align="center">------ That's All Folks! ------</div>
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
@@ -91,5 +95,6 @@ You could also schedule a call with me on:
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Coloured Icons/Logos: https://github.com/bablubambal/All_logo_and_pictures -->
 
 
