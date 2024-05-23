@@ -53,22 +53,18 @@ Here are some of the technologies and tools of choice when architecting solution
 ## 📫 How to reach me: 
 You can find me on: 
 
-<a href="https://www.linkedin.com/in/majidmvulle"><img src="./assets/linkedin.svg" width="30px"/>
-
-/in/majidmvulle</a>. 
+<a href="https://www.linkedin.com/in/majidmvulle"><img src="./assets/linkedin.svg" width="30px"/><br/>/in/majidmvulle</a>. 
 
 
 You could also schedule a call with me on:
 
-<a href="https://calendar.app.google/wkJ8by5mRyByiShr6"><img src="./assets/googlecalendar.svg" width="30px"/>
-
-https://calendar.app.google/wkJ8by5mRyByiShr6
+<a href="https://calendar.app.google/wkJ8by5mRyByiShr6"><img src="./assets/googlecalendar.svg" width="30px"/><br/>https://calendar.app.google/wkJ8by5mRyByiShr6</a>
 
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/majidmvulle/majidmvulle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidmvulle&hide=javascript,starlark,objective-c,java,c%23,dockerfile,php,objective-c%2B%2B,makefile,ruby,tsql,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidmvulle&hide=javascript,starlark,objective-c,java,c%23,dockerfile,php,objective-c%2B%2B,makefile,ruby,tsql,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0F0F0F&langs_count=5&hide_border=true" />
 </a>
 <br/><br/>
 
@@ -76,7 +72,7 @@ https://calendar.app.google/wkJ8by5mRyByiShr6
 <br/><br/>
 
 <a href="https://github.com/majidmvulle/majidmvulle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=majidmvulle&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EA3323&bg_color=1d1f21" alt="Majid's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=majidmvulle&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=EA3323&bg_color=0F0F0F&hide_border=true" alt="Majid's GitHub Stats" />
 </a>
 
 <img align="center" src="./assets/explanation.jpg"/>
