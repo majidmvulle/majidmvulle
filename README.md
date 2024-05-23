@@ -59,7 +59,7 @@ You can find me on:
 
 You could also schedule a call with me on:
 
-<a href="https://calendar.app.google/wkJ8by5mRyByiShr6"><img src="./assets/googlecalendar.svg" width="30px"/><br/>https://calendar.app.google/wkJ8by5mRyByiShr6</a>
+<a href="https://calendar.app.google/wkJ8by5mRyByiShr6"><img src="./assets/googlecalendar.svg" width="20px"/><br/>https://calendar.app.google/wkJ8by5mRyByiShr6</a>
 
 
 ## &#x1f4c8; GitHub Stats
