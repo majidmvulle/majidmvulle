@@ -38,7 +38,7 @@ Here are some of the technologies and tools of choice when architecting solution
 <img height="30px" src="./assets/technologies/c.svg"/>&nbsp;&nbsp;
 </div>
 
-<br/><br/>
+<br/>
 
 
 * [Swagger/OpenAPI v3.1.0](https://spec.openapis.org/oas/latest.html) - For API documentation
