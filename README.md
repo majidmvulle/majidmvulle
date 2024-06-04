@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Olá <img width="30px" src="./assets/wave.gif"/>
 
-I am a Senior Solutions Architect 💡👷🏽‍♂️, Software Developer 👨🏾‍💻 and Technical Team Lead 👨🏾‍💼 based in Lisbon, Portugal.
+I am a Principal Solutions Architect 💡👷🏽‍♂️, Software Developer 👨🏾‍💻 and Technical Team Lead 👨🏾‍💼 based in Lisbon, Portugal.
 
 I am passionate about technology and currently pursuing the [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) and [TOGAF Enterprise Architecture Practitioner](https://www.credly.com/org/the-open-group/badge/the-open-group-certified-togaf-enterprise-architecture-practitioner) certifications.
 
