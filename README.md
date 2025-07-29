@@ -10,10 +10,16 @@ My focus is on applying solid architectural principles and best practices to sol
 
 ---
 
+### Certifications
+
+| Badge                                           | Certificate                                                     | Issuer                  | Verification Link                                                            |
+|:------------------------------------------------|:----------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------|
+| <img height="60px" src="./assets/sap-c02.png"/> | **AWS Certified Solutions Architect - Professional (SAP C02)**  | **Amazon Web Services** | [Credly](https://www.credly.com/badges/a11b1a36-9678-4dd9-9a96-64387884b76e) |
+
 ### 👨🏿‍💻 Core Competencies
 - **Solution Architecture & System Design:** Crafting robust, scalable, and secure system blueprints.
 - **Cloud Infrastructure (AWS):** Designing and managing cloud-native infrastructure using IaC.
-- **Application Modernization:** Leading migrations from monolithic to microservices architectures.
+- **Application Modernisation:** Leading migrations from monolithic to microservices architectures.
 - **Cloud-Native Development:** Applying best practices for building and deploying applications in the cloud.
 
 ---
